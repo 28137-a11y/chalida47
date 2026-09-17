@@ -7,7 +7,7 @@
 
 
 temp = float(input("อุณหภูมิร่างกาย"= ))
-if temp : > 37.5
+if temp > 37.5 :
 print=("fever")
-else temp : <37.5
+else temp <37.5 :
 print= ("normal")
