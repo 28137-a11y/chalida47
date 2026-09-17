@@ -6,5 +6,7 @@
 
 
 # นักเรียนเขียนโค้ดต่อจากบรรทัดนี้
-price = float(input())
-is_member = int(input())
+price = float(input("ราคาสินค้าเต็ม:"))
+is_member = int(input("สถานะสมาชิก: "))
+if เป็นสมาชิก = 1
+print= (ลดทันที 10)
