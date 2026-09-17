@@ -6,6 +6,6 @@
 
 
 
-pay = int(input("จำนวนเงินที่จ่าย" ))
-price = int(input("ราคาสินค้า" ))
-print = int(input("จำนวนเงินทอน":pay-price )
+pay = int(input("จำนวนเงินที่จ่าย: " ))
+price = int(input("ราคาสินค้า: " ))
+print = int(input("จำนวนเงินทอน:(pay-price"))
